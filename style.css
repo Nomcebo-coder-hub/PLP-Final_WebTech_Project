@@ -45,3 +45,7 @@ a {
   margin: 5px 8px;
   padding-right: 5px;
 }
+
+.navbar-center ul li a img {
+  width: 30px;
+}
