@@ -32,3 +32,16 @@ a {
   margin-right: 15px;
   display: block;
 }
+
+.navbar-center ul li {
+  display: inline-block;
+  list-style: none;
+}
+
+.navbar-center ul li a {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  margin: 5px 8px;
+  padding-right: 5px;
+}
