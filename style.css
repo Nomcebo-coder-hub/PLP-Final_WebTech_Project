@@ -236,6 +236,12 @@ a {
   margin-right: -25px;
 }
 
+.discover-more-link a {
+  color: #045be6;
+  display: inline-block;
+  margin: 10px 0;
+}
+
 /*----right-sidebar----*/
 
 .left-sidebar {
