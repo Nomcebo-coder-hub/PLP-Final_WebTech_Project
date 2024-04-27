@@ -540,3 +540,11 @@ a {
   width: 18px;
   margin-right: 8px;
 }
+
+/*----------profile-drop-down-menu-----------*/
+.profile-menu-wrap {
+  position: absolute;
+  top: 100%;
+  right: 5%;
+  width: 320px;
+}
