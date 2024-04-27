@@ -285,6 +285,14 @@ a {
   margin: 20px 0 10px;
 }
 
+.sidebar-ad {
+  background: #fff;
+  padding: 15px 25px;
+  text-align: center;
+  margin: 12px 0;
+  font-size: 12px;
+}
+
 /*----main-content----*/
 
 .main-content {
