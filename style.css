@@ -249,6 +249,11 @@ a {
   align-self: flex-start;
 }
 
+.sidebar-news {
+  background: #fff;
+  padding: 10px 25px;
+}
+
 /*----main-content----*/
 
 .main-content {
