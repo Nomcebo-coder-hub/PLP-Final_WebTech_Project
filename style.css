@@ -214,6 +214,15 @@ a {
   margin: 20px 0 10px;
 }
 
+.sidebar-activity a {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 500;
+  color: #888;
+  margin: 3px 0;
+}
+
 /*----right-sidebar----*/
 
 .left-sidebar {
