@@ -584,3 +584,11 @@ a {
   background: #fff;
   margin: 15px 0 10px;
 }
+
+.profile-menu-link {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  margin: 12px 0;
+  font-size: 14px;
+}
