@@ -379,3 +379,7 @@ a {
   background: transparent;
   margin-top: 8px;
 }
+
+::placeholder {
+  font-weight: 500;
+}
