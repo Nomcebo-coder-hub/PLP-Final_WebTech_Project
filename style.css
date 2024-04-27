@@ -254,6 +254,12 @@ a {
   padding: 10px 25px;
 }
 
+.info-icon {
+  width: 15px;
+  float: right;
+  margin-top: 15px;
+}
+
 /*----main-content----*/
 
 .main-content {
