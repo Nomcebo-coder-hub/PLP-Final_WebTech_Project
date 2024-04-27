@@ -131,3 +131,16 @@ a {
   flex-basis: 25%;
   align-self: flex-start;
 }
+
+/*----right-sidebar----*/
+
+.left-sidebar {
+  flex-basis: 25%;
+  align-self: flex-start;
+}
+
+/*----main-content----*/
+
+.main-content {
+  flex-basis: 47%;
+}
