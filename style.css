@@ -148,7 +148,7 @@ a {
   margin-top: -45px;
 }
 
-.sidebar-profile-info {
+.sidebar-profile-info h1 {
   font-size: 20px;
   font-weight: 600;
   color: #222;
@@ -158,6 +158,22 @@ a {
   font-size: 14px;
   font-weight: 500;
   color: #777;
+}
+
+.sidebar-profile-info ul {
+  list-style: none;
+  margin: 20px 0;
+}
+
+.sidebar-profile-info ul li {
+  width: 100%;
+  margin: 5px 0;
+  font-size: 13px;
+}
+
+.sidebar-profile-info ul li span {
+  float: right;
+  color: #045be6;
 }
 
 /*----right-sidebar----*/
