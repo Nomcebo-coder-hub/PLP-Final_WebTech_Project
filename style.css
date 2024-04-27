@@ -53,11 +53,16 @@ a {
 
 .navbar-center ul li a::after {
   content: "";
-  width: 100%;
+  width: 0;
   height: 2px;
   background: #045be6;
   position: absolute;
   bottom: -15px;
+  transition: width 0.3s;
+}
+
+.navbar-center ul li a:hover::after {
+  width: 100%;
 }
 
 .nav-profile-img {
