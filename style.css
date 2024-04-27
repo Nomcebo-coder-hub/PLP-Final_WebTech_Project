@@ -477,3 +477,13 @@ a {
   font-size: 14px;
   margin-bottom: 15px;
 }
+
+.posts-stats {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 12px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 6px;
+}
