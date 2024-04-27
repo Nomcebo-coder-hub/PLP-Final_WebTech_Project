@@ -57,3 +57,14 @@ a {
   cursor: pointer;
   position: relative;
 }
+
+.online {
+  position: relative;
+}
+
+.online::after {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border: 2px solid #fff;
+}
