@@ -44,6 +44,7 @@ a {
   font-size: 14px;
   margin: 5px 8px;
   padding-right: 5px;
+  position: relative;
 }
 
 .navbar-center ul li a img {
