@@ -309,6 +309,12 @@ a {
   margin-bottom: 10px;
 }
 
+.sidebar-ad b {
+  display: block;
+  font-weight: 500;
+  margin-top: 10px;
+}
+
 /*----main-content----*/
 
 .main-content {
