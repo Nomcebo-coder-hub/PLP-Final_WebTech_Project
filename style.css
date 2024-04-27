@@ -548,3 +548,21 @@ a {
   right: 5%;
   width: 320px;
 }
+
+.profile-menu {
+  background: #222;
+  color: #fff;
+  padding: 20px;
+  margin: 10px;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+}
+
+.user-info img {
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
