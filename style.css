@@ -576,3 +576,11 @@ a {
   color: #c9dbf8;
   font-size: 13px;
 }
+
+.profile-menu hr {
+  border: 0;
+  height: 1px;
+  width: 100%;
+  background: #fff;
+  margin: 15px 0 10px;
+}
