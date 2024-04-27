@@ -299,6 +299,16 @@ a {
   margin: 4px;
 }
 
+.sidebar-ad small {
+  float: right;
+  font-weight: 500;
+}
+
+.sidebar-ad p {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
 /*----main-content----*/
 
 .main-content {
