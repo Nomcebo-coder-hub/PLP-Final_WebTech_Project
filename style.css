@@ -192,6 +192,15 @@ a {
   border-left: 1px solid #ccc;
 }
 
+.sidebar-profile-link a:first-child {
+  border-left: 0;
+}
+
+.sidebar-profile-link a img {
+  width: 20px;
+  margin-right: 10px;
+}
+
 /*----right-sidebar----*/
 
 .left-sidebar {
