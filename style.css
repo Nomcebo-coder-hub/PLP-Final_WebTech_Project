@@ -487,3 +487,13 @@ a {
   border-bottom: 1px solid #ccc;
   padding-bottom: 6px;
 }
+
+.posts-stats div {
+  display: flex;
+  align-items: center;
+}
+
+.posts-stats img {
+  width: 15px;
+  margin-right: -5px;
+}
