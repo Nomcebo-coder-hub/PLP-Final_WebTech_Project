@@ -325,6 +325,17 @@ a {
   margin: 20px auto 10px;
 }
 
+.sidebar-useful-links {
+  padding: 15px 25px;
+  text-align: center;
+}
+
+.sidebar-useful-links a {
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+}
+
 /*----main-content----*/
 
 .main-content {
