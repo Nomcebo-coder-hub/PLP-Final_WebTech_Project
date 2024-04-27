@@ -520,3 +520,8 @@ a {
   width: 22px;
   border-radius: 50%;
 }
+
+.post-activity-arrow-icon {
+  width: 12px;
+  margin-left: 5px;
+}
