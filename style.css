@@ -497,3 +497,7 @@ a {
   width: 15px;
   margin-right: -5px;
 }
+
+.liked-users {
+  margin-left: 10px;
+}
