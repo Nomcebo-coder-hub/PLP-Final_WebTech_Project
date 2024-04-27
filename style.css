@@ -592,3 +592,12 @@ a {
   margin: 12px 0;
   font-size: 14px;
 }
+
+.profile-menu-link p {
+  width: 100%;
+}
+
+.profile-menu-link img {
+  width: 35px;
+  margin-right: 15px;
+}
