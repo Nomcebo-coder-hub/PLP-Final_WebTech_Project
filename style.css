@@ -61,7 +61,8 @@ a {
   transition: width 0.3s;
 }
 
-.navbar-center ul li a:hover::after {
+.navbar-center ul li a:hover::after,
+.navbar-center ul li a.active-link::after {
   width: 100%;
 }
 
