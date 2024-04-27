@@ -148,6 +148,18 @@ a {
   margin-top: -45px;
 }
 
+.sidebar-profile-info {
+  font-size: 20px;
+  font-weight: 600;
+  color: #222;
+}
+
+.sidebar-profile-info h3 {
+  font-size: 14px;
+  font-weight: 500;
+  color: #777;
+}
+
 /*----right-sidebar----*/
 
 .left-sidebar {
