@@ -49,3 +49,11 @@ a {
 .navbar-center ul li a img {
   width: 30px;
 }
+
+.nav-profile-img {
+  width: 40px;
+  border-radius: 50%;
+  display: block;
+  cursor: pointer;
+  position: relative;
+}
