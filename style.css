@@ -223,6 +223,11 @@ a {
   margin: 3px 0;
 }
 
+.sidebar-activity a img {
+  width: 20px;
+  margin-right: 10px;
+}
+
 /*----right-sidebar----*/
 
 .left-sidebar {
