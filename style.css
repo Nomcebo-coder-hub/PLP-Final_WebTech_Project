@@ -616,4 +616,14 @@ a {
 .profile-sidebar {
   flex-basis: 25%;
   align-self: flex-start;
+  position: sticky;
+  top: 73%;
+}
+
+.profile-container {
+  background: #fff;
+}
+
+.profile-container-inner {
+  padding: 0 4% 10px;
 }
