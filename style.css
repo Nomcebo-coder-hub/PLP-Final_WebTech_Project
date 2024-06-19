@@ -635,3 +635,32 @@ a {
   padding: 5px;
   background: #fff;
 }
+
+.profile-container h1 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #222;
+}
+
+.profile-container b {
+  font-weight: 500;
+}
+
+.profile-container p {
+  margin-top: 5px;
+}
+
+.profile-container p a {
+  color: #045be6;
+  font-weight: 500;
+}
+
+.mutual-connection {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.mutual-connection img {
+  width: 30px;
+}
