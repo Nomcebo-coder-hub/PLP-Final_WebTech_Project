@@ -689,3 +689,15 @@ a {
   background: #045be6;
   color: #fff;
 }
+
+.profile-desc-row {
+  display: flex;
+  align-items: flex-start;
+  margin: 20px 0;
+}
+
+.profile-desc-row img {
+  width: 50px;
+  margin-right: 25px;
+  margin-top: 5px;
+}
