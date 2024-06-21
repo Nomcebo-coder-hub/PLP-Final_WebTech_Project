@@ -852,5 +852,21 @@ a {
   }
   .navbar-center ul li a {
     padding-right: 0;
+    margin: 5px;
+  }
+  .nav-profile-img {
+    width: 30px;
+  }
+  .container {
+    padding: 15px 3%;
+  }
+  .left-sidebar,
+  .right-sidebar {
+    flex-basis: 100%;
+    position: relative;
+    top: unset;
+  }
+  .main-content {
+    flex-basis: 100%;
   }
 }
