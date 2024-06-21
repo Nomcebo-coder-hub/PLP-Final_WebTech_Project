@@ -719,3 +719,13 @@ a {
   margin-right: 25px;
   margin-top: 5px;
 }
+
+.profile-desc-row div {
+  width: 100%;
+}
+
+.profile-desc-row h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+}
