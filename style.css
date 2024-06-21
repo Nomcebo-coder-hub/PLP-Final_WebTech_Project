@@ -869,4 +869,14 @@ a {
   .main-content {
     flex-basis: 100%;
   }
+  .post-stats div {
+    margin: 2px 0;
+  }
+  .post-activity-link img {
+    margin-right: 0;
+  }
+  .profile-main,
+  .profile-sidebar {
+    flex-basis: 100%;
+  }
 }
