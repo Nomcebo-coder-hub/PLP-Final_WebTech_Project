@@ -879,4 +879,14 @@ a {
   .profile-sidebar {
     flex-basis: 100%;
   }
+  .profile-container {
+    font-size: 14px;
+  }
+  .profile-pic {
+    width: 100px;
+    margin-top: -50px;
+  }
+  .profile-description {
+    font-size: 14px;
+  }
 }
