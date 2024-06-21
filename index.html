@@ -448,6 +448,10 @@
 
       function toggleActivity() {
         sideActivity.classList.toggle("open-activity");
+
+        if (sideActivity.classList.contains("open-activity")) {
+          moreLink.innerHTML = "Show less <b>-</b>";
+        }
       }
     </script>
   </body>
