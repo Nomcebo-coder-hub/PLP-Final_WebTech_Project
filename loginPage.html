@@ -33,6 +33,9 @@
       .form-group {
         margin-bottom: 15px;
       }
+      .form-group a {
+        text-decoration: none;
+      }
       .form-group label {
         display: block;
         font-weight: bold;
@@ -85,15 +88,29 @@
           <input type="password" id="password" name="password" required />
         </div>
         <div class="form-group">
-          <button type="submit">Sign in</button>
+          <button type="submit"><a href="index.html">Sign in</a></button>
         </div>
       </form>
       <div class="forgot-password">
         <a href="#">Forgot password?</a>
       </div>
     </div>
-    <script src="app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.3.0/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.3.0/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+    <script>
+      import { initializeApp } from "firebase/app";
+
+      const firebaseConfig = {
+        apiKey: "AIzaSyCuOaxv2Sk_uTERvGRszehucoiJBYDpGAw",
+        authDomain: "konnect-app-2e773.firebaseapp.com",
+        projectId: "konnect-app-2e773",
+        storageBucket: "konnect-app-2e773.appspot.com",
+        messagingSenderId: "806321298474",
+        appId: "1:806321298474:web:27acd13558d651e8f53753",
+      };
+
+      const app = initializeApp(firebaseConfig);
+    </script>
   </body>
 </html>
