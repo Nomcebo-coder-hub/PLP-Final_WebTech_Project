@@ -729,3 +729,19 @@ a {
   font-weight: 600;
   color: #333;
 }
+
+.profile-desc-row b {
+  display: block;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.profile-desc-row p {
+  margin-top: 15px;
+}
+
+.profile-desc-row hr {
+  border: 0;
+  border-bottom: 1px solid #999;
+  margin-top: 10px;
+}
