@@ -778,6 +778,13 @@ a {
   font-weight: 500;
 }
 
+.profile-sidebar {
+  flex-basis: 25%;
+  align-self: flex-start;
+  position: sticky;
+  top: 73px;
+}
+
 .profile-sidebar .sidebar-ad {
   margin: 0;
 }
