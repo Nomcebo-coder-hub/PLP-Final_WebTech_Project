@@ -690,6 +690,18 @@ a {
   color: #fff;
 }
 
+.profile-description {
+  background: #fff;
+  padding: 20px 4% 30px;
+  margin: 12px 0;
+}
+
+.profile-description h2 {
+  color: #333;
+  margin: 10px 0 20px;
+  font-weight: 600;
+}
+
 .profile-desc-row {
   display: flex;
   align-items: flex-start;
