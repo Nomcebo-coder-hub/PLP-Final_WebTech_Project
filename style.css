@@ -847,4 +847,10 @@ a {
     width: 0;
     padding: 0;
   }
+  .navbar-center ul li a span {
+    display: none;
+  }
+  .navbar-center ul li a {
+    padding-right: 0;
+  }
 }
