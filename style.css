@@ -836,3 +836,15 @@ a {
 .profile-footer .copyright-msg {
   justify-content: flex-start;
 }
+
+@media only screen and (max-width: 600px) {
+  .search-box {
+    background: transparent;
+    width: auto;
+    padding: 0;
+  }
+  .search-box input {
+    width: 0;
+    padding: 0;
+  }
+}
